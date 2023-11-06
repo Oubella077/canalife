@@ -1,0 +1,81 @@
+.cover1 {
+
+  height: 82vh;
+  width: 300px;
+  position: absolute;
+  top: 17%;
+  left: -15px;
+  opacity: 0.2;
+  background-position: 21px 0px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 30px;
+
+}
+
+.row2 {
+  /* height: 510px;
+    background-image: url("/assets/background2.png");
+    background-size: cover;
+  background-position: top 50px center; */
+  background-color: #f28538;
+  position: absolute;
+  top: -150px;
+
+}
+
+.cover2 {
+
+  height: 70vh;
+  width: 300px;
+  position: absolute;
+  top: 35%;
+  left: -15px;
+  opacity: 0.2;
+  background-position: 21px 0px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 30px;
+
+}
+
+.cover3 {
+  height: 130vh;
+  width: 380px;
+  position: absolute;
+  top: -8%;
+  left: 100px;
+  opacity: 0.3;
+  background-position: 21px 0px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 30px;
+
+
+}
+
+.categorie {
+  height: 60vh;
+  width: 100%;
+  /* opacity: 0.9; */
+  background-color: #f28538;
+  margin-top: 100px;
+}
+
+.bg-aboutus {
+  position: absolute;
+  z-index: -1;
+  width: 1124px;
+  height: 250px;
+  left: 220px;
+  top: 40px;
+
+}
+
+.bgo {
+  background-color: #f28538;
+}
+
+.clo {
+  color: #f28538;
+}
